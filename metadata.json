@@ -1,0 +1,6 @@
+{
+  "name": "Apa nak makan tonight?",
+  "description": "A fun dish picker for deciding what to eat tonight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
